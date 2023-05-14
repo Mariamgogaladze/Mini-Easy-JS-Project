@@ -4,7 +4,7 @@ Welcome to the Mini-Easy JS Projects repository! This repository contains a coll
 
 ## Demo 
 
-: 
+: https://mariamgogaladze.github.io/Mini-Easy-JS-Project/
 
 ## Table of Contents
 - [Project Descriptions](#project-descriptions)
