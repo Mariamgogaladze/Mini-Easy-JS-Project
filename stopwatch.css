@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    min-height: 100vh;
+    gap: 40px;
+}
+
+h2 ,p{
+    color: whitesmoke;
+    font-size: 60px;
+    letter-spacing: 2px;   
+    text-shadow: 1px 1px 5px #00FFFF;
+    
+
+}
+
+button {
+    background-color: whitesmoke;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 40px; 
+    cursor: pointer;
+    margin-left: 20px;
+    box-shadow: rgba(255, 254, 254, 0.365) 0px 2px 8px 0px;
+}
+button:hover{
+    background-color: aqua;
+    color: whitesmoke;
+    font-weight: bold;
+}

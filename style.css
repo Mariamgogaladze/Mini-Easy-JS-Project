@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, #efc7b5, #eee2dc);
+    gap: 50px;
+}
+h1{
+    color: #ac3b61;
+    font-size: 50px;
+}
+
+  ul {
+    padding: 0;
+    list-style-type: none;
+  }
+
+  li {
+    margin-bottom: 20px;
+  }
+  a{
+    text-decoration:none;
+    font-size: 20px;
+    color:#123c69 ;
+    font-weight: bold;
+  }
+a:hover{
+    color:  #ac3b61;
+}
